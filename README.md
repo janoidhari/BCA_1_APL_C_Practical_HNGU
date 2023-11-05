@@ -83,11 +83,11 @@ Marks Grade 100– 80 Dist
 7 8 9 10<br>
 
 43. Write a C program to display following output on the screen.<br>
-"*"<br>
-"* *"<br>
-"* * *"<br>
-"* * * *"<br>
-"* * * * *"<br>
+*<br>
+* *<br>
+* * *<br>
+* * * *<br>
+* * * * *<br>
 44. Write a C program to display following output on the screen<br>
 *<br>
 * *<br>
