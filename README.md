@@ -53,10 +53,10 @@ Marks Grade 100– 80 Dist
 0– 34 Fail
 37. Write a C program to find 1+1/2+1/3+1/4+....+1/n.
 38. Write a C program to display following output on the screen.
-1
-1 2
-1 2 3
-1 2 3 4
+1<br>
+1 2<br>
+1 2 3<br>
+1 2 3 4<br>
 
 39. Write a C program to display following output on the screen.
 1
