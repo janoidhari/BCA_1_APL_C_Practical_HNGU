@@ -1,5 +1,5 @@
 # BCA_1_APL_C_Practical_HNGU
-# Practical List
+## Practical List
 
 1. Write a C program to display "hello computer" on the screen.
 2. Write a C program to print roll no, name and address.
