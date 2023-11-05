@@ -4,7 +4,7 @@
 
 void main()
 {
-    clrscr();
+    // clrscr();
 
     printf("Rollno : 08 \n");
 
