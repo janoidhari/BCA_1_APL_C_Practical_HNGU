@@ -52,68 +52,68 @@ Marks Grade 100– 80 Dist
 35– 49 Pass
 0– 34 Fail
 37. Write a C program to find 1+1/2+1/3+1/4+....+1/n.
-38. Write a C program to display following output on the screen.
+38. Write a C program to display following output on the screen.<br>
 1<br>
 1 2<br>
 1 2 3<br>
 1 2 3 4<br>
 
-39. Write a C program to display following output on the screen.
-1
-2 2
-3 3 3
-4 4 4 4
+39. Write a C program to display following output on the screen.<br>
+1<br>
+2 2<br>
+3 3 3<br>
+4 4 4 4<br>
 
-40. Write a C program to display following output on the screen.
-1
-0 1
-1 0 1
-0 1 0 1
-41. Write a C program to display following output on the screen.
-1
-2 2
-3 3 3
-4 4 4 4
-5 5 5 5 5
+40. Write a C program to display following output on the screen.<br>
+1<br>
+0 1<br>
+1 0 1<br>
+0 1 0 1<br>
+41. Write a C program to display following output on the screen.<br>
+1<br>
+2 2<br>
+3 3 3<br>
+4 4 4 4<br>
+5 5 5 5 5<br>
 
-42. Write a C program to display following output on the screen.
-1
-2 3
-4 5 6
-7 8 9 10
+42. Write a C program to display following output on the screen.<br>
+1<br>
+2 3<br>
+4 5 6<br>
+7 8 9 10<br>
 
-43. Write a C program to display following output on the screen.
-*
-* *
-* * *
-* * * *
-* * * * *
-44. Write a C program to display following output on the screen
-*
-* *
-* * *
-* * * *
-* * * * *
+43. Write a C program to display following output on the screen.<br>
+*<br>
+* *<br>
+* * *<br>
+* * * *<br>
+* * * * *<br>
+44. Write a C program to display following output on the screen<br>
+*<br>
+* *<br>
+* * *<br>
+* * * *<br>
+* * * * *<br>
 
-45. Write a C program to display following output on the screen.
-1
-2 3
-4 5 6
-7 8 9 10
-11 12 13 14 15
+45. Write a C program to display following output on the screen.<br>
+1<br>
+2 3<br>
+4 5 6<br>
+7 8 9 10<br>
+11 12 13 14 15<br>
 
-46. Write a C program to display following output on the screen.
-C
-CP
-CPR
-CPRO
-.....
-CPROGRAMMING
-.....
-CPRO
-CPR
-CP
-C
+46. Write a C program to display following output on the screen.<br>
+C<br>
+CP<br>
+CPR<br>
+CPRO<br>
+.....<br>
+CPROGRAMMING<br>
+.....<br>
+CPRO<br>
+CPR<br>
+CP<br>
+C<br>
 
 47. Write a C program to find maximum & minimum value from the given array.
 48. Write a C program to find next minimum from the given array.
