@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "PR16.C": "cpp"
+        "PR16.C": "cpp",
+        "PR17.C": "cpp"
     }
 }
